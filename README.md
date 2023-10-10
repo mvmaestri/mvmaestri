@@ -1,5 +1,8 @@
 ![linkedin cover](assets/cover.jpg)
 
+![Profile views](https://komarev.com/ghpvc/?username=mvmaestri&color=green&base=124)
+![Profile last updated](https://img.shields.io/github/last-commit/mvmaestri/mvmaestri/main?label=Last%20updated&style=flat)
+
 I am the author of the [Developer Experience](https://dx-book.com?utm_source=github&utm_medium=profile&utm_campaign=home) book. My work portfolio features renowned companies such as IBM, Red Hat, Volvo, H&M Group, Vodafone, and Emirates Airlines. Check it out:
 
 - 👉 Kindle Version: Eager to get started? The Kindle edition is available now for immediate download. Enjoy the convenience of reading it on your favorite device, whether it's a Kindle e-reader or the Kindle app on your smartphone or tablet.
