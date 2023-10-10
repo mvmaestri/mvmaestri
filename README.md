@@ -10,13 +10,13 @@ I am the author of the [Developer Experience](https://dx-book.com?utm_source=git
 
 ## Work in progress
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dx-book&repo=platform&show_owner=true)](https://github.com/dx-book/platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dx-book&repo=platform&show_owner=true&theme=holi)](https://github.com/dx-book/platform)
 
 ## Public Statistics
 
-![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvmaestri&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs)
+![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvmaestri&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs&theme=holi)
 
-![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mvmaestri&layout=pie)
+![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mvmaestri&layout=pie&theme=holi)
 
 ## Support Me
 
