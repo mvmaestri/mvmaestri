@@ -1,5 +1,4 @@
-
-<!-- ![linkedin cover](assets/cover.jpg) -->
+![linkedin cover](assets/cover.jpg)
 
 I am the author of the [Developer Experience](https://dx-book.com?utm_source=maestri.se&utm_medium=website&utm_campaign=home) book. My work portfolio features renowned companies such as IBM, Red Hat, Volvo, H&M Group, Vodafone, and Emirates Airlines.
 
