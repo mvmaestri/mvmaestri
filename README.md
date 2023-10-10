@@ -1,4 +1,4 @@
-![linkedin cover](assets/squared.jpg)
+![linkedin cover](assets/cover.jpg)
 
 I am the author of the [Developer Experience](https://dx-book.com?utm_source=github&utm_medium=profile&utm_campaign=home) book. My work portfolio features renowned companies such as IBM, Red Hat, Volvo, H&M Group, Vodafone, and Emirates Airlines. Check it out:
 
