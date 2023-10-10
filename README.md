@@ -11,12 +11,14 @@ For those who prefer the tactile experience of a physical book, don't worry! The
 
 🔍 Not sure if this book is for you? Test the waters by getting a free sample! Visit the book's website at [⎈ https://dx-book.com](https://dx-book.com?utm_source=maestri.se&utm_medium=website&utm_campaign=home), or head over to the Amazon store and click the "Send a Free Sample" button.
 
-## Ongoing Projects
+## Work in progress
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dx-book&repo=platform&show_owner=true)](https://github.com/dx-book/platform)
+
+## Stats
 
 ![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvmaestri&show_icons=true&hide_rank=true)
 ![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mvmaestri&layout=compact)
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dx-book&repo=platform&show_owner=true)](https://github.com/dx-book/platform) -->
 
 ## Support Me
 I'm sharing some of my work here and if it helps you, I'd love it if you'd consider supporting me.
