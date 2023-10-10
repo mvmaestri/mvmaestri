@@ -1,18 +1,19 @@
 
-![linkedin cover](assets/cover.jpg)
-
-![Profile views](https://komarev.com/ghpvc/?username=mvmaestri&color=green&base=124)
-![Profile last updated](https://img.shields.io/github/last-commit/dx-book/platform/main?label=Last%20updated&style=flat)
-</div>
-
-## About Me
+<!-- ![linkedin cover](assets/cover.jpg) -->
 
 I am the author of the [Developer Experience](https://dx-book.com?utm_source=maestri.se&utm_medium=website&utm_campaign=home) book. My work portfolio features renowned companies such as IBM, Red Hat, Volvo, H&M Group, Vodafone, and Emirates Airlines.
 
-## Github Stats
+👉 Kindle Version - Immediate Delivery
+Eager to get started? The Kindle edition is available now for immediate download. Enjoy the convenience of reading it on your favorite device, whether it's a Kindle e-reader or the Kindle app on your smartphone or tablet.
+
+📖 Paperback Version
+For those who prefer the tactile experience of a physical book, don't worry! The paperback version is available for purchase online, and in many libraries worldwide.
+
+🔍 Not sure if this book is for you? Test the waters by getting a free sample! Visit the book's website at [⎈ https://dx-book.com](https://dx-book.com?utm_source=maestri.se&utm_medium=website&utm_campaign=home), or head over to the Amazon store and click the "Send a Free Sample" button.
+
+## Ongoing Projects
 
 ![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvmaestri&show_icons=true&hide_rank=true)
-
 ![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mvmaestri&layout=compact)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dx-book&repo=platform&show_owner=true)](https://github.com/dx-book/platform) -->
