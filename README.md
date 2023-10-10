@@ -1,6 +1,6 @@
 ![linkedin cover](assets/cover.jpg)
 
-![Profile views](https://komarev.com/ghpvc/?username=mvmaestri&color=green&base=124)
+![Profile views](https://komarev.com/ghpvc/?username=mvmaestri&color=green&base=224)
 ![Profile last updated](https://img.shields.io/github/last-commit/mvmaestri/mvmaestri/main?label=Last%20updated&style=flat)
 
 I am the author of the [Developer Experience](https://dx-book.com?utm_source=github&utm_medium=profile&utm_campaign=home) book. My work portfolio features renowned companies such as IBM, Red Hat, Volvo, H&M Group, Vodafone, and Emirates Airlines. Check it out:
