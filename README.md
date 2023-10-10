@@ -14,7 +14,7 @@ I am the author of the [Developer Experience](https://dx-book.com?utm_source=git
 
 ## Public Statistics
 
-![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvmaestri&show_icons=true&hide_rank=true)
+![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvmaestri&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs)
 
 ![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mvmaestri&layout=pie)
 
