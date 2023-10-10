@@ -12,7 +12,7 @@ I am the author of the [Developer Experience](https://dx-book.com?utm_source=mae
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dx-book&repo=platform&show_owner=true)](https://github.com/dx-book/platform)
 
-## Stats
+## Public Statistics
 
 ![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvmaestri&show_icons=true&hide_rank=true)
 
