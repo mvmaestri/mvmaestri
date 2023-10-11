@@ -13,7 +13,7 @@ I am the author of the [Developer Experience](https://dx-book.com?utm_source=git
 
 ## Work in progress
 
-[![Platform](https://github-readme-stats.vercel.app/api/pin/?username=dx-book&repo=platform&show_owner=true&theme=github_dark)](https://github.com/dx-book/platform)
+[![Platform](https://github-readme-stats.vercel.app/api/pin/?username=dx-book&repo=platform&show_owner=true&theme=holi)](https://github.com/dx-book/platform)
 
 ## Public Statistics
 
